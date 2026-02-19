@@ -27,7 +27,7 @@ Originally inspired by [contextbricks](https://www.npmjs.com/package/contextbric
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/claude-statusline.git
+git clone https://github.com/Oks2199/claude-statusline.git
 
 # Run installer (copies script + updates settings.json)
 cd claude-statusline
