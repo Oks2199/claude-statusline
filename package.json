@@ -1,0 +1,25 @@
+{
+  "name": "claude-statusline",
+  "version": "1.0.0",
+  "description": "Custom statusline for Claude Code CLI - Windows compatible. Displays git info, context bricks, token usage, session cost and duration.",
+  "main": "statusline.js",
+  "scripts": {
+    "install": "node install.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "statusline",
+    "windows",
+    "context",
+    "bricks",
+    "git",
+    "tokens",
+    "terminal"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "Ox <cursedcrewstudio@gmail.com>",
+  "license": "MIT"
+}
